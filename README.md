@@ -5,7 +5,7 @@
 
 ## What this produces
 
-A single page of plainly stated, independently quotable facts about one company, structured so that a language model retrieving any fragment of it gets that fragment right. It is a **reference record**, not marketing copy. The reader is a machine that will paraphrase one sentence into someone else's answer, and a journalist who needs a fact they can print without a follow-up call.
+A single page of plainly stated, independently quotable facts about one company, structured so that a language model retrieving any fragment of it gets that fragment right. It is a **reference record**. The reader is a machine, a venture capital analyst or a journalist. The inspiration for this comes from https://unitelabs.io/llm-info/.
 
 Deliverables, always in English, written to `/mnt/user-data/outputs/`:
 
